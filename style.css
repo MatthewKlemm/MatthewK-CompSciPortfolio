@@ -11,6 +11,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
+    border-color:blue;
 }
 
 li {
@@ -23,7 +24,7 @@ li {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  border-color:blue;
+  
 }
 
 
