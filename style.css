@@ -11,7 +11,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
-    border-color: blue;
+    
 }
 
 li {
@@ -33,6 +33,7 @@ li {
 
 li {
     border-right: 1px solid #bbb;
+  border-color: blue;
 }
 
 li:last-child {
