@@ -19,10 +19,11 @@ li {
 
 li {
     display: block;
-    color: white;
+    color: blue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  border-color:blue;
 }
 
 
