@@ -1,12 +1,9 @@
 body {
   background-color: blue;
-  color: blue;
+  color: black;
 }
 
-p {
-  color: black;
-  
-}
+
 ul {
     list-style-type: none;
     margin: 0;
