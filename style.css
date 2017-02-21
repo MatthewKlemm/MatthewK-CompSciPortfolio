@@ -30,6 +30,7 @@ li {
     border-width: 1px;
     border-color: blue;
   
+  
 }
 
 
@@ -38,7 +39,8 @@ li {
 
 li {
     border-right: 1px solid #bbb;
-  border-color: blue;
+    border-style: solid
+    border-color: blue;
 }
 
 li:last-child {
