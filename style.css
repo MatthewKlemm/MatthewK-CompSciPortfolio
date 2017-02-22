@@ -6,11 +6,13 @@ p {
 }
 h1 {
   color:blue;
-}
+ }
 
 p {
     border-style: solid;
     border-color: blue;
+    width: 400px;
+    font-size: 20px;
 }
 
 ul {
