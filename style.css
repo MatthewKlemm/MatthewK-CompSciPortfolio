@@ -8,6 +8,11 @@ h1 {
   color:blue;
 }
 
+p {
+    border-style: solid;
+    border-color: blue;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
