@@ -42,7 +42,9 @@ li {
   
 }
 
-
+li a:hover {
+  background-color: gray;
+}
 
 
 
