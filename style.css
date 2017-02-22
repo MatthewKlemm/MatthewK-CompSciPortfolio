@@ -43,7 +43,8 @@ li {
 }
 
 li a:hover {
-  background-color: gray;
+  background-color: blue;
+  color: black;
 }
 
 
