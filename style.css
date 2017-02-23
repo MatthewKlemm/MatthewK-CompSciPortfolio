@@ -1,17 +1,17 @@
 body {
-  background-color: black;
+  background-color: #696969;
 }
 p {
- color:blue; 
+ color:#F8F8FF; 
 }
 h1 {
-  color:blue;
+  color: #008000;
   font-size: 70px
  }
 
 p {
     border-style: solid;
-    border-color: blue;
+    border-color: #008000;
     width: 400px;
     font-size: 20px;
 }
