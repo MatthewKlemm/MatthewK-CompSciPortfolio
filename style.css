@@ -16,46 +16,31 @@ p {
     font-size: 20px;
 }
 
+
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
-    width: 1080px;
+    background-color: #333;
 }
 
 li {
     float: left;
 }
 
-li {
+li a {
     display: block;
-    color: blue;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    border-width: 1px;
-    border-color: blue;
-    font-size: 50px;
-    
-  
-  
 }
+
 
 li a:hover {
-  background-color: blue;
-  color: black;
-}
-
-
-
-li {
-    border-right: 1px solid #bbb;
-    border-style: solid;
-    border-color: blue;
-}
-
-li:last-child {
-    border-right: none;
+    background-color: #008000;
 }
