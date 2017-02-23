@@ -5,13 +5,13 @@ p {
  color:#F8F8FF; 
 }
 h1 {
-  color: #008000;
+  color: #4CAF50;
   font-size: 70px
  }
 
 p {
     border-style: solid;
-    border-color: #008000;
+    border-color: #4CAF50;
     width: 400px;
     font-size: 20px;
 }
