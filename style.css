@@ -7,7 +7,7 @@ p {
 h1 {
   color: #4CAF50;
   font-size: 70px
-  padding-top: 50px;
+  padding-top: 50px 0px 0px 0px;
  }
 
 p {
