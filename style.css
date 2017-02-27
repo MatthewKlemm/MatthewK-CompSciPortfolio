@@ -19,9 +19,9 @@ p {
 p2 {
    border-style: solid;
    border-color: #4CAF50;
-   width: 400px;
-   font-size: 20px;
-   float: left;
+   width: 600px;
+   font-size: 30px;
+   margin: 650px;
 }
 
 
