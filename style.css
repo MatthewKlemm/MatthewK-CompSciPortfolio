@@ -12,12 +12,12 @@ h1 {
 p {
     border-style: solid;
     border-color: #4CAF50;
-    width: 40%;
+    width: 600px;
     font-size: 30px;
 }
 
 img {
-  float: left;
+  float: right;
 }
 
 
