@@ -16,6 +16,12 @@ p {
     font-size: 30px;
 }
 
+table{ 
+  border-style: solid;
+  border-color: #4CAF50;
+  color:#F8F8FF; 
+}
+
 h6 {
  
     border-style: solid;
