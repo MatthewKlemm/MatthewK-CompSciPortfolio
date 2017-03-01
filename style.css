@@ -16,6 +16,14 @@ p {
     font-size: 30px;
 }
 
+h6 {
+ 
+    border-style: solid;
+    border-color: #4CAF50;
+    width: 600px;
+    font-size: 30px;
+}
+
 img {
   float: right;
   
