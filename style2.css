@@ -24,14 +24,9 @@ p {
     border-color: #4CAF50;
     width: 600px;
     font-size: 30px;
-  float: bottom;
 }
 
-table{ 
-  border-style: solid;
-  border-color: #4CAF50;
-  color:#F8F8FF; 
-}
+
 
 h6 {
  
@@ -43,8 +38,7 @@ h6 {
 }
 
 img {
-  float: center;
-  float: middle;
+  float: bottom;
   
 }
 
