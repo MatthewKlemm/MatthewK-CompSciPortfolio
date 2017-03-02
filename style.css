@@ -19,9 +19,8 @@ p {
 }
 
 table, th, td{ 
-  border-collapse: collapse;
   color:#F8F8FF; 
-  border: 5px;
+  border-style: solid;
   border-color: #4CAF50;
 }
 
