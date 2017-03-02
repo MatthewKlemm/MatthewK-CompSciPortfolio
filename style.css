@@ -9,15 +9,7 @@ h1 {
   font-size: 70px
  }
 
-td {
-  border-style: solid;
-  border-color: #4CAF50;
-}
 
-th {
-  border-style: solid;
-  border-color: #4CAF50;
-}
 
 p {
     border-style: solid;
@@ -26,9 +18,8 @@ p {
     font-size: 30px;
 }
 
-table{ 
-  border-style: solid;
-  border-color: #4CAF50;
+table, th, td{ 
+  border-collapse: collapse;
   color:#F8F8FF; 
 }
 
