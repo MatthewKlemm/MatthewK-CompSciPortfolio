@@ -22,6 +22,7 @@ table, th, td{
   border-collapse: collapse;
   color:#F8F8FF; 
   border: 5px;
+  border-color: #4CAF50;
 }
 
 h6 {
