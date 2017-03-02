@@ -39,6 +39,8 @@ h6 {
 
 img {
   float: bottom;
+  border-color: #4CAF50;
+  border-style: solid;
   
 }
 
