@@ -22,6 +22,7 @@ table, th, td{
   color:#F8F8FF; 
   border-style: solid;
   border-color: #4CAF50;
+  text-decoration: none;
 }
 
 h6 {
