@@ -15,7 +15,7 @@ p {
     border-style: solid;
     border-color: #4CAF50;
     width: 600px;
-    font-size: 30px;
+    font-size: 10px;
 }
 
 table, th, td{ 
@@ -30,7 +30,7 @@ h6 {
     border-style: solid;
     border-color: #4CAF50;
     width: 600px;
-    font-size: 30px;
+    font-size: 10px;
     float: bottom;
 }
 
