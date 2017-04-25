@@ -23,7 +23,7 @@ p {
     border-style: solid;
     border-color: #4CAF50;
     width: 600px;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 
@@ -33,7 +33,7 @@ h6 {
     border-style: solid;
     border-color: #4CAF50;
     width: 600px;
-    font-size: 10px;
+    font-size: 20px;
     float: bottom;
 }
 
